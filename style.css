@@ -37,7 +37,7 @@ a:hover {
 	color: #ffc9f7;
 }
 
-.rainbow{
+#rainbow{
 	animation: rainbow 2.5s linear;
 	animation-iteration-count: infinite;
 }
