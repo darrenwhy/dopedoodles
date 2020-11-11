@@ -32,9 +32,9 @@ a {
 	margin: 8px;
 }
 a:hover {
-	-webkit-transition: color 1.5s; /* For Safari 3.0 to 6.0 */
-	transition: color 1.5s; /* For modern browsers */
-	color: #3cff46;
+	-webkit-transition: color 1.0s; /* For Safari 3.0 to 6.0 */
+	transition: color 1.0s; /* For modern browsers */
+	color: #2b63ff;
 }
 
 h1 {
