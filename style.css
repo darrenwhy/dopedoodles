@@ -34,7 +34,7 @@ a {
 a:hover {
 	-webkit-transition: color 1.5s; /* For Safari 3.0 to 6.0 */
 	transition: color 1.5s; /* For modern browsers */
-	color: #ffc9f7;
+	color: #3cff46;
 }
 
 h1 {
@@ -45,6 +45,9 @@ h2 {
 	color: #ffffff;
 }
 
+h3 {
+	color: #ffffff;
+}
 p {
 	color: #ffffff;
 }
