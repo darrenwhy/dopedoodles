@@ -25,11 +25,13 @@ body {
 
 a {
 	color: #ff87ed;
+	font-family: "Courier New", monospace;
 }
 
 a {
 	text-decoration: none;
 	margin: 8px;
+	font-family: "Courier New", monospace;
 }
 a:hover {
 	-webkit-transition: color 1.0s; /* For Safari 3.0 to 6.0 */
@@ -39,15 +41,21 @@ a:hover {
 
 h1 {
 	color: #ffffff;
+	font-family: "Courier New", monospace;
+
+
 }
 
 h2 {
 	color: #ffffff;
+	font-family: "Courier New", monospace;
 }
 
 h3 {
 	color: #ffffff;
+	font-family: "Courier New", monospace;
 }
 p {
 	color: #ffffff;
+	font-family: "Courier New", monospace;
 }
