@@ -20,18 +20,18 @@
 }
 
 body {
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: 'Roboto', sans-serif;
 }
 
 a {
 	color: #ff87ed;
-	font-family: "Courier New", monospace;
+	font-family: "Roboto", monospace;
 }
 
 a {
 	text-decoration: none;
 	margin: 8px;
-	font-family: "Courier New", monospace;
+	font-family: "Roboto", monospace;
 }
 a:hover {
 	-webkit-transition: color 1.0s; /* For Safari 3.0 to 6.0 */
@@ -41,21 +41,21 @@ a:hover {
 
 h1 {
 	color: #000000;
-	font-family: "Courier New", monospace;
+	font-family: "Roboto", monospace;
 
 
 }
 
 h2 {
 	color: #000000;
-	font-family: "Courier New", monospace;
+	font-family: "Roboto", monospace;
 }
 
 h3 {
 	color: #000000;
-	font-family: "Courier New", monospace;
+	font-family: "Roboto", monospace;
 }
 p {
 	color: #000000;
-	font-family: "Courier New", monospace;
+	font-family: "Roboto", monospace;
 }
